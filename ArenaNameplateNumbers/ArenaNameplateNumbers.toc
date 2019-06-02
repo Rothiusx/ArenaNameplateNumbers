@@ -1,0 +1,7 @@
+## Interface: 80100
+## Title: Arena Nameplate Numbers
+## Notes: Replaces names of players in arena with arena target numbers.
+## Author: Rothius
+## Version: 1.4
+
+ArenaNameplatesNumbers.lua
